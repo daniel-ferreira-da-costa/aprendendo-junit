@@ -1,10 +1,12 @@
-package com.java.dev.jaca;
+package com.java.dev.jaca.junit;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.time.LocalDate;
 
 import org.junit.jupiter.api.Test;
+
+import com.java.dev.jaca.Pessoa;
 
 public class AssertionsTest {
     @Test

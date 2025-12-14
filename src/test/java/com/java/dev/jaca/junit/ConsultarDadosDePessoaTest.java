@@ -1,10 +1,13 @@
-package com.java.dev.jaca;
+package com.java.dev.jaca.junit;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.time.LocalDate;
 
 import org.junit.jupiter.api.*;
+
+import com.java.dev.jaca.BancoDeDados;
+import com.java.dev.jaca.Pessoa;
 
 public class ConsultarDadosDePessoaTest {
 
